@@ -1,0 +1,11 @@
+D:\TelegramBot\MyTelUomostella\MyTelUomostella\bin\Debug\netcoreapp2.0\MyTelUomostella.deps.json
+D:\TelegramBot\MyTelUomostella\MyTelUomostella\bin\Debug\netcoreapp2.0\MyTelUomostella.runtimeconfig.json
+D:\TelegramBot\MyTelUomostella\MyTelUomostella\bin\Debug\netcoreapp2.0\MyTelUomostella.runtimeconfig.dev.json
+D:\TelegramBot\MyTelUomostella\MyTelUomostella\bin\Debug\netcoreapp2.0\MyTelUomostella.dll
+D:\TelegramBot\MyTelUomostella\MyTelUomostella\bin\Debug\netcoreapp2.0\MyTelUomostella.pdb
+D:\TelegramBot\MyTelUomostella\MyTelUomostella\obj\Debug\netcoreapp2.0\MyTelUomostella.csprojAssemblyReference.cache
+D:\TelegramBot\MyTelUomostella\MyTelUomostella\obj\Debug\netcoreapp2.0\MyTelUomostella.csproj.CoreCompileInputs.cache
+D:\TelegramBot\MyTelUomostella\MyTelUomostella\obj\Debug\netcoreapp2.0\MyTelUomostella.AssemblyInfoInputs.cache
+D:\TelegramBot\MyTelUomostella\MyTelUomostella\obj\Debug\netcoreapp2.0\MyTelUomostella.AssemblyInfo.cs
+D:\TelegramBot\MyTelUomostella\MyTelUomostella\obj\Debug\netcoreapp2.0\MyTelUomostella.dll
+D:\TelegramBot\MyTelUomostella\MyTelUomostella\obj\Debug\netcoreapp2.0\MyTelUomostella.pdb
